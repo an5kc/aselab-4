@@ -1,0 +1,10 @@
+C:\Users\JAY\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\WcfService2.dll
+C:\Users\JAY\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\WcfService2.pdb
+C:\Users\JAY\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+C:\Users\JAY\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\JAY\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\JAY\Desktop\ase lab4\projects\WcfService2\WcfService2\bin\WcfService2.dll
+C:\Users\JAY\Desktop\ase lab4\projects\WcfService2\WcfService2\bin\WcfService2.pdb
+C:\Users\JAY\Desktop\ase lab4\projects\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+C:\Users\JAY\Desktop\ase lab4\projects\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\JAY\Desktop\ase lab4\projects\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
